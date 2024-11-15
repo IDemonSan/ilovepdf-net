@@ -1,0 +1,6 @@
+@ServiceILovePDF_HostAddress = http://localhost:5279
+
+GET {{ServiceILovePDF_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
